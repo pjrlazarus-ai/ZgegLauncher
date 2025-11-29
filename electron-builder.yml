@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'zgeglauncher'
+productName: 'Zgeg Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi'
+copyright: 'Copyright © 2018-2024 Daniel Scalzi et MUSH BOI SCUM FUCK LA BOI DOMS FILO'
 
 asar: true
 compression: 'maximum'
