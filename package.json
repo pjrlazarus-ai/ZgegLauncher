@@ -5,9 +5,9 @@
   "description": "Launcher minecraft pour les zgegs par un zgeg ", 
   "author": "Daniel Scalzi (https://github.com/dscalzi/) + mush",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/UnMushin/ZgegLauncher",
+  "homepage": "https://github.com/pjrlazarus-ai/ZgegLauncher",
   "bugs": {
-    "url": "https://github.com/UnMushin/ZgegLauncher/issues"
+    "url": "https://github.com/pjrlazarus-ai/ZgegLauncher/issues"
   },
   "private": true,
   "main": "index.js",
